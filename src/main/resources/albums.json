@@ -99,7 +99,7 @@
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Led Zeppelin",
+        "artist": "Led Zeppelin - Hin Version2",
         "title": "IV",
         "releaseYear": "1971",
         "genre": "Rock"
