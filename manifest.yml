@@ -1,8 +1,8 @@
 ---
 applications:
-- name: spring-music
+- name: demo-spring-music
   memory: 512M
   instances: 1
-  random-route: true
-  path: build/libs/spring-music.war
+  #random-route: true
+  path: spring-music.war
 
