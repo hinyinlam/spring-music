@@ -99,7 +99,7 @@
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Led Zeppelin - Hin Version 1007",
+        "artist": "Led Zeppelin - Hin Version 2:21pm",
         "title": "IV",
         "releaseYear": "1971",
         "genre": "Rock"
