@@ -99,7 +99,7 @@
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "Led Zeppelin - Hin Version MaryKay 1516",
+        "artist": "Led Zeppelin - Hin Version 1007",
         "title": "IV",
         "releaseYear": "1971",
         "genre": "Rock"
