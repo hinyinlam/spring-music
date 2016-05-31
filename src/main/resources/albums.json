@@ -2,7 +2,7 @@
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
         "artist": "Nirvana",
-        "title": "Nevermind - Manulife 15-Apr-2016",
+        "title": "Pivotal Internal CICD Demo 31-May-2016",
         "releaseYear": "1991",
         "genre": "Rock"
     },
